@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Anton"
+title: "Tri-Guard: Inference-Time Abstention for Transformers"
+version: 0.1.0
+date-released: 2026-02-05
+url: "https://github.com/yourusername/triguard"

@@ -1,0 +1,19 @@
+# Bytes
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models
+*.safetensors
+*.bin
+*.pt
+
+# Output
+out/
+logs/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
